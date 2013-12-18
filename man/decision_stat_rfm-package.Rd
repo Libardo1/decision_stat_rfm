@@ -7,8 +7,7 @@ What the package does (short line)
 ~~ package title ~~
 }
 \description{
-More about what it does (maybe more than one line)
-~~ A concise (1-5 lines) description of the package ~~
+This is demo package which the Recency Frequency Monetization on a sample dataset just to show the usefulness of the RFM package .In the upcoming version file handling support will be added . 
 }
 \details{
 \tabular{ll}{
@@ -16,22 +15,20 @@ Package: \tab decision_stat_rfm\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2013-12-18\cr
-License: \tab What license is it under?\cr
+License: \tab MIT license\cr
 }
-~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
+Use the package after loading with rfm() funciton.
 }
 \author{
-Who wrote it
+Ajay Ohri , Gaurav Sehrawat
 
-Maintainer: Who to complain to <yourfault@somewhere.net>
-~~ The author and/or maintainer of the package ~~
+Maintainer: Gaurav Sehrawat <igauravsehrawat@gmail.com>
+Ajay Ohri, Gaurav Sehrawat
 }
 \references{
-~~ Literature or other references for background information ~~
+refer to this link : decisionstats.com/2012/03/27/doing-rfm-analysis-in-r/
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in ~~
-~~ the R documentation directory ~~
+rfm 
 \keyword{ package }
 \seealso{
 ~~ Optional links to other man pages, e.g. ~~
